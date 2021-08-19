@@ -92,6 +92,25 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
  <videostream>
    <img src = "https://user-images.githubusercontent.com/82746560/129991338-680d3d3b-c601-4148-8b22-c8afb2f7c4ad.png" width="80%" height="80%"> 
 
+
+3. raspberry pi settings
+
+   opencv, dlib install and run code
+
+ <img src = "https://user-images.githubusercontent.com/82746560/130000204-e8698e20-c20a-4ee9-96e4-c73dd07cbda8.png" width="50%" height="50%"> 
+
+   
 **-result**
 
 https://user-images.githubusercontent.com/82746560/129997122-6ad471b1-236a-4da1-890b-a06270997661.mp4
+1초(25frame)동안 eye close이면 1차 경고. 그 후 2초(60frame) 동안 다시 감지되면 2차 경고  
+
+
+   
+   
+   
+   
+   
+   
+   
+   
