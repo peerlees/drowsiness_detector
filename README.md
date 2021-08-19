@@ -101,12 +101,15 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
    
 **-result**
-
+<pc>
+  
 https://user-images.githubusercontent.com/82746560/129997122-6ad471b1-236a-4da1-890b-a06270997661.mp4
 1초(25frame)동안 eye close이면 1차 경고. 그 후 2초(60frame) 동안 다시 감지되면 2차 경고  
 
 
-   
+<raspberry pi>
+
+
    
    
    
