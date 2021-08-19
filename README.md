@@ -28,11 +28,17 @@ Closed Eyes In The Wild (CEW)
 **-environment(requirements)**
 
 Window 10
+
 Cuda toolkit = 11.0
+
 Cudnn = v8.1.1
+
 Tensorflow = 2.4.1
+
 Keras = 2.4.3
+
 Csv = 1.0
+
 Dlib = 19.21.1
 
 
@@ -57,7 +63,8 @@ Dlib = 19.21.1
 
 <img src = "https://user-images.githubusercontent.com/82746560/129994922-d85bd62b-fef8-465b-9807-96be2337e213.png" width="80%" height="80%"> 
 
-
+다운로드 해서 파일에 추가
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 **-processing**
 
