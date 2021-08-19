@@ -104,16 +104,18 @@ http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 <pc>
   
 https://user-images.githubusercontent.com/82746560/129997122-6ad471b1-236a-4da1-890b-a06270997661.mp4
+  
 1초(25frame)동안 eye close이면 1차 경고. 그 후 2초(60frame) 동안 다시 감지되면 2차 경고  
 
 
 <raspberry pi>
 
+https://user-images.githubusercontent.com/82746560/130000348-53d7066c-0714-4ab0-87aa-4205a9a8431d.mp4
+   
+밝은 곳에서 얼굴인식을 통한 눈 깜빡임 탐지를 하여 졸음운전 경고 프로세스까지 작동하는 것을 확인
 
    
+---------------------------------------------------------------------------------------------------------------------------------------------------
    
-   
-   
-   
-   
+ RPi IR-CUT Camera s/w 자체 오류로 ir영역이 제대로 나오지 않아 추가적인 detection은 못함
    
